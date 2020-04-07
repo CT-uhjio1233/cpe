@@ -1,4 +1,4 @@
-package cpe;
+
 
 import java.util.*;
 import java.util.Arrays;
@@ -36,6 +36,7 @@ public class cpestart1of11{
         }
         System.out.println();
         }
+        cin.close();
     }
 }
        

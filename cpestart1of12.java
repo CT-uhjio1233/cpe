@@ -1,7 +1,8 @@
+
 import java.util.Scanner;
 import java.util.Vector;
 
-class uva490{
+public class cpestart1of12{
 	
 public static void main(String[] args){
     Scanner cin=new Scanner(System.in);
@@ -30,5 +31,6 @@ public static void main(String[] args){
         }
         System.out.println();
     }
+    cin.close();
 }
 }

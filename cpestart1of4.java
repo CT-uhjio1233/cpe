@@ -1,4 +1,4 @@
-package cpe;
+
 
 import java.util.Scanner;
 public class cpestart1of4 {

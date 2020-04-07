@@ -1,4 +1,3 @@
-package cpe;
 
 import java.util.Scanner;
 
