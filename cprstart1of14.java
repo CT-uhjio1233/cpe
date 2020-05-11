@@ -1,4 +1,3 @@
-import java.time.MonthDay;
 import java.util.Scanner;
 
 public class cprstart1of14 {
@@ -52,9 +51,9 @@ public static void count(int date,int count){
     if(date==count){
         System.out.println("Monday");
     }else if(date>count){
-        week((date - count) % 7);
-    }else if(date<11){
-        week(((Math.abs(count-date)%7)+5)%7);
+        week((date - count)%7);
+    }else if(date<count){
+        week((Math.abs(count-date)%7)+5);
     }
 }
 public static void week(int a){
