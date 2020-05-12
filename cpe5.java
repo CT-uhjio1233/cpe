@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 import java.math.BigInteger;;
-public class cpestart1of5 {
+public class cpe5 {
 public static void multiple(BigInteger x) {
 		String m="11";
 		String z="0";

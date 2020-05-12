@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class cpestart1of1{
+public class cpe1{
     public static void main(String[] args) {
         try{
             int a,b;

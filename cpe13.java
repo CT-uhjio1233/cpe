@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class cpestart1of13{
+public class cpe13{
     public static void main(String[] args){
         Scanner cin=new Scanner(System.in);
         int x=0;

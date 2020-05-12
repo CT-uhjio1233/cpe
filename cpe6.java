@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class cpestart1of6 {
+public class cpe6 {
 	public static void main(String args[]){
 		Scanner sc=new Scanner(System.in);
 		int count=1;

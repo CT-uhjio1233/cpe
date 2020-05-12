@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class cpestart1of10 {
+public class cpe10 {
 	public static void main(String arg[]){
 		Scanner cin=new Scanner(System.in);
 		while(cin.hasNext()) {

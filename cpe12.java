@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.Vector;
 
-public class cpestart1of12{
+public class cpe12{
 	
 public static void main(String[] args){
     Scanner cin=new Scanner(System.in);
