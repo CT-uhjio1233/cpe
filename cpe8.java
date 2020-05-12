@@ -1,20 +1,20 @@
 
 import java.util.*;
 
-public class cpestart1of8 {
-	public static void main(String arg[]) {
-        Scanner cin=new Scanner(System.in);
-		String st=cin.nextLine();
-		int cases=Integer.parseInt(st);
+public class cpe8{
+	public static void main(final String arg[]) {
+        final Scanner cin=new Scanner(System.in);
+		final String st=cin.nextLine();
+		final int cases=Integer.parseInt(st);
 		
-		int f[]=new int[26];
+		final int f[]=new int[26];
 		for(int i=0;i<26;i++) {
 			f[i]=0;
 		}
 		
 		
 		for(int i=0;i<cases;i++) {		
-		String input=cin.nextLine();
+		final String input=cin.nextLine();
 		for(int j=0;j<input.length();j++) {
 			if(input.charAt(j)>=65 &&input.charAt(j)<=90) {
 				f[input.charAt(j)-65]++;

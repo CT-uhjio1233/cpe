@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class cpestart1of14 {
+public class cpe14 {
     public static void main(String args[]){
         Scanner cin=new Scanner(System.in);
         int x=cin.nextInt();

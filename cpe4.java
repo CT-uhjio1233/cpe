@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class cpestart1of4 {
+public class cpe4 {
 	private static int n(int a,int b) {
     int c,d = 0,f;
     if(a>b) {

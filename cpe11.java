@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Arrays;
 import java.util.Set;
 import java.util.HashSet;
-public class cpestart1of11{
+public class cpe11{
     public static void main(String[] args){
         Scanner cin=new Scanner(System.in);
         while(cin.hasNext()){

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class cpestart1of9 {
+public class cpe9 {
 	public static void main(String[] args) {
 	String st= "1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./'";
 	Scanner cin=new Scanner(System.in);
